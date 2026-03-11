@@ -28,11 +28,11 @@ Personal-electronics-project
 └── README.md
 ## Schematic
 
-![Schematic](schematic.png)
+![Schematic](schematic_power_suply_PM5.png)
 
 ## PCB Layout
 
-![PCB](pcb.png)
+![PCB](pcb_power_suply_PM5.png)
 
 ## Author
 
