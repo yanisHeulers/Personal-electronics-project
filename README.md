@@ -26,13 +26,6 @@ Personal-electronics-project
 │ └── custom_symbols.kicad_sym
 │
 └── README.md
-## Schematic
-
-![Schematic](schematic_power_suply_PM5.png)
-
-## PCB Layout
-
-![PCB](pcb_power_suply_PM5.png)
 
 ## Author
 
